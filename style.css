@@ -1,0 +1,49 @@
+body {
+  font-family: 'Outfit', sans-serif;
+  font-size: 15px;
+  background-color: hsl(212, 45%, 89%);
+}
+
+.attribution {
+  position: absolute;
+  bottom: 0;
+  font-size: 11px;
+  text-align: center;
+  margin: auto;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+.QRCard {
+  width: 300px;
+  border-radius: 15px;
+  background-color: hsl(0, 0%, 100%);
+  margin:100px auto;
+  text-align: center;
+}
+
+.cardBody {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+  padding-bottom: 15px;
+}
+
+.cardTittle {
+  color: hsl(218, 44%, 22%);
+
+}
+
+.cardText {
+  color: hsl(220, 15%, 55%);
+}
+
+
+.QRCard img {
+  max-width: 90%;
+  margin-top: 5%;
+  height: auto;
+  border-radius: 8px;
+}
